@@ -12,8 +12,8 @@ Wireshark 是用于网络协议分析和数据包捕获的广泛使用的开源�
 
 |   序号 | 名称                                                                                                                      | 难度   | Repo                                                                                      | 练习                                                                                        |
 |--------|---------------------------------------------------------------------------------------------------------------------------|--------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|      1 | [Wireshark 快速入门](https://labex.io/zh/courses/quick-start-with-wireshark)                                              | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-wireshark)                       | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-wireshark)                       |
-|      2 | [使用 Wireshark 和 Tshark 进行网络安全分析](https://labex.io/zh/courses/cybersecurity-analysis-with-wireshark-and-tshark) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/cybersecurity-analysis-with-wireshark-and-tshark) | [🚀 开始实验](https://labex.io/zh/courses/cybersecurity-analysis-with-wireshark-and-tshark) |
+|      1 | [Wireshark 快速入门](https://labex.io/zh/courses/quick-start-with-wireshark)                                              | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-wireshark)                       | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-wireshark)                       |
+|      2 | [使用 Wireshark 和 Tshark 进行网络安全分析](https://labex.io/zh/courses/cybersecurity-analysis-with-wireshark-and-tshark) | 初级   | [🔗 Repo](https://github.com/labex-labs/cybersecurity-analysis-with-wireshark-and-tshark) | [🚀 开始实验](https://labex.io/zh/courses/cybersecurity-analysis-with-wireshark-and-tshark) |
 
 ## 更多
 
