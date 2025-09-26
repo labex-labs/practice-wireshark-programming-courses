@@ -8,11 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/OuFutztV2dPZ.png">
 </div>
 
-Wireshark はネットワークプロトコル分析とパケットキャプチャのための広く使用されているオープンソースツールです。このスキルツリーは Wireshark を習得するための包括的な学習パスを提供します。サイバーセキュリティとネットワークの初心者に最適で、パケット分析、トラフィック監視、トラブルシューティングを理解するための構造化されたロードマップを提供します。実践的な非動画コースとパケット分析プレイグラウンドでのハンズオン演習を通じて、Wireshark を使ってネットワークトラフィックを解析し、問題を診断する実践的な経験を得ることができます。
+サイバーセキュリティとネットワーキングの初心者向けに設計された、包括的な学習パスで Wireshark を習得しましょう。これらの Wireshark コースは、ネットワークプロトコル分析とパケットキャプチャに広く使用されているオープンソースツールを習得するための体系的なロードマップを提供します。カリキュラムは、パケット分析、トラフィック監視、トラブルシューティングの理解に焦点を当てています。実践的な非ビデオチュートリアルと、パケット分析プレイグラウンドでのハンズオン演習を通じて、学習者は Wireshark を使用してネットワークトラフィックを分析し、問題を診断する実世界の経験を積むことができます。
 
 |   インデックス | 名前                                                                                                                                 | 難易度   | Repo                                                                                      | 練習                                                                                          |
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-|              1 | [Wireshark のクイックスタート](https://labex.io/ja/courses/quick-start-with-wireshark)                                               | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-wireshark)                       | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-wireshark)                       |
+|              1 | [初心者向け Wireshark](https://labex.io/ja/courses/wireshark-for-beginners)                                                          | 初級     | [🔗 Repo](https://github.com/labex-labs/wireshark-for-beginners)                          | [🚀 ラボを開始](https://labex.io/ja/courses/wireshark-for-beginners)                          |
 |              2 | [Wireshark と Tshark を用いたサイバーセキュリティ分析](https://labex.io/ja/courses/cybersecurity-analysis-with-wireshark-and-tshark) | 初級     | [🔗 Repo](https://github.com/labex-labs/cybersecurity-analysis-with-wireshark-and-tshark) | [🚀 ラボを開始](https://labex.io/ja/courses/cybersecurity-analysis-with-wireshark-and-tshark) |
 
 ## その他
